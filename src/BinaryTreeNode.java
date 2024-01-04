@@ -18,6 +18,13 @@ public class BinaryTreeNode {
 
     }
 
+    public void getSmallestNode(int key){
+
+
+
+
+    }
+
 
 
 
